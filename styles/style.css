@@ -145,3 +145,90 @@
     line-height: 35px;
     /* 145.833% */
 }
+
+.discount-section {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+.discount-details {
+    text-align: center;
+    padding-top: 140px;
+}
+
+.discount-tittle {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+span {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.discount-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.btn-dsgn {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 10px 25px;
+    gap: 10px;
+    color: white;
+}
+
+.features-img {
+    padding-top: 30px;
+}
+
+.insta-tittle {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 80px;
+
+}
+
+.insta-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.insta-imges {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 240px;
+}
+
+.images {
+    padding: 20px;
+}
