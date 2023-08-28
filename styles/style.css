@@ -1,0 +1,147 @@
+.header-container {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    width: 100%;
+}
+
+.header-description {
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+.header-tittle {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.header-info {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.img-design {
+    padding: 0 200px;
+    margin-top: 50px;
+    margin-right: 150px;
+
+}
+
+.btn-design {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 30px;
+    align-items: flex-start;
+    color: white;
+    border: 0;
+    gap: 10px;
+}
+
+.first-section-container {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.first-section-tittle {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.first-section-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.img-section-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#img-caption {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.first-img {
+    margin-right: 10px;
+    padding: 40px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.second-img {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+
+.third-img {
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.first-section-img {
+    margin-top: 20px;
+
+}
+
+.flowers-features {
+    display: flex;
+    justify-content: space-between;
+
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 20px;
+    padding: 30px;
+    margin: 10px 440px;
+}
+
+.features-img-one {
+
+    text-align: center;
+    padding-left: 60px;
+}
+
+.features-img-two {
+    text-align: center;
+}
+
+.features-img-three {
+    text-align: center;
+    padding-right: 60px;
+}
+
+.flowers-features-h5 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    /* 145.833% */
+}
