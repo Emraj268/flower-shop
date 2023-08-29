@@ -226,17 +226,30 @@ span {
 .insta-imges {
     display: flex;
     margin-top: 40px;
-    margin-left: 240px;
+    margin-left: 380px;
 }
 
 .images {
     padding: 20px;
+    width: 260px;
 }
 
-.deal container {
+.deal-container {
+    background-image: url(../image/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    width: 1160px;
+    margin-left: 400px;
+    /*
+    height: 449px;
+    margin-top: 120px;
+   
     border-radius: 8px;
+    padding: 20px; */
 
+}
 
+.deal-purpose {
+    padding: 20px;
 }
 
 .deal-tittle {
@@ -247,6 +260,7 @@ span {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-left: 20px;
 }
 
 .deal-des {
@@ -263,10 +277,11 @@ span {
 #email {
     border-radius: 8px;
     background: #FFF;
-    width: 700px;
-    height: 64px;
+    width: 400px;
+    height: 40px;
     flex-shrink: 0;
-    margin-left: 600px;
+    margin-left: 350px;
+    margin-bottom: 100px;
 }
 
 .sub-btn {
